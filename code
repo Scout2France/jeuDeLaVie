@@ -3,7 +3,7 @@ from math import*                                                               
 from random import*                                                                     ## importation module aléatoire
 fen = Tk()                                                                              ## creation de la fenetre tkinter
 fen.title('fenetre')                                                                   ## on nomme la fenetre du nom de notre ami younousse qui ne fait plus nsi
-n = 100                                                                                ## la taille du cadrillage ici 40 par 40 par exemple
+n = 40                                                                               ## la taille du cadrillage 
 l=600                                                                                   ## largeur de la fenetre
 h = 600                                                                                 ## longueur de la fenetre
 couleur = ["blue", "yellow", "black", "red", "purple", "pink"]                          ## mise en couleur des cases optionnel
